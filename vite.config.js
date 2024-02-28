@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/parcial-frontend/"
+  base: "https://lancito01.github.io/parcial-frontend/"
 })
